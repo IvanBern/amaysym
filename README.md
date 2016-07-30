@@ -17,11 +17,11 @@ On your local machine you should have installed
 
 #### Environmental variables
 
-'export AMAYSIM_URL=http://www.amaysim.com.au
+export AMAYSIM_URL=http://www.amaysim.com.au
 
-'export AMAYSIM_NUMBER=0468827174
+export AMAYSIM_NUMBER=0468827174
 
-'export AMAYSIM_PASS=
+export AMAYSIM_PASS=
 
 #### Test Execution
 1. Open terminal
