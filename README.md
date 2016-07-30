@@ -6,11 +6,6 @@ On your local machine you should have installed
 1. Firefox browser v42 or earlier.
 1. Ruby 2.0.0 or higher
 
-#### Assumptions
-
-1. You have a Confluence Cloud account and at least one Space created.
-Confluence username: b714106@trbvn.com
-password: b714106@trbvn.com
 
 #### Installation
 
@@ -24,7 +19,7 @@ password: b714106@trbvn.com
 
 export AMAYSIM_URL=http://www.amaysim.com.au
 export AMAYSIM_NUMBER=0468827174
-export AMAYSIM_PASS=theHoff34
+export AMAYSIM_PASS=
 
 #### Test Execution
 1. Open terminal
