@@ -26,7 +26,7 @@ export AMAYSIM_URL=http://www.amaysim.com.au
 
 export AMAYSIM_NUMBER=0468827174
 
-export AMAYSIM_PASS=<Set a password>
+export AMAYSIM_PASS=<Set a password> 
 
 #### Test Execution
 
